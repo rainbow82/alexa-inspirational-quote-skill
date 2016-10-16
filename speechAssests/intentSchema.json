@@ -1,0 +1,16 @@
+{
+    "intents":[
+        {
+            "intent": "nameOfIntent"
+        } ,
+        {
+            "intent": "nameOfIntent",
+            "slots":[
+                {
+                    "name": "slotName", //ex City
+                    "type": "slot type" // ex List_Of_Cities
+                }
+            ]
+        }  
+    ]
+}
